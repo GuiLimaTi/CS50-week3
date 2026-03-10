@@ -1,0 +1,11 @@
+sort1 uses: Bubble Sort
+
+How do you know?: It is much faster when the input is already sorted, wich is a typical behavior of Bubble Sort.
+
+sort2 uses: Merge Sort
+
+How do you know?: The running time is almost the same for random, sorted, and reversed inputs, wich is characteristics of Merge Sort (0(n log n)).
+
+sort3 uses: Selection Sort
+
+How do you know?: The running time is similar regardless of the initial order of the numbers, which is typical of Selection SOrt (0(n²)).
